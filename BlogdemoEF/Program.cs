@@ -10,6 +10,7 @@ namespace BlogdemoEF
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
